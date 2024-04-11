@@ -2,4 +2,5 @@
 // creating new projects 
 var data = "darsh";
 var darsh = "darsh kanani";
+var getData = "darsh";
 
